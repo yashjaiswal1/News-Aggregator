@@ -1,101 +1,101 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker News: Newest</title><link>https://news.ycombinator.com/newest</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v1.1-9-ge3a2bf8</generator><lastBuildDate>Mon, 09 Aug 2021 15:18:14 +0000</lastBuildDate><atom:link href="https://hnrss.org/newest" rel="self" type="application/rss+xml"></atom:link><item><title><![CDATA[The Hyena Men of Nigeria]]></title><description><![CDATA[
-<p>Article URL: <a href="https://theafricaninsider.com/who-are-the-hyena-men-of-nigeria/">https://theafricaninsider.com/who-are-the-hyena-men-of-nigeria/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28117877">https://news.ycombinator.com/item?id=28117877</a></p>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker News: Newest</title><link>https://news.ycombinator.com/newest</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v1.1-9-ge3a2bf8</generator><lastBuildDate>Tue, 10 Aug 2021 04:52:25 +0000</lastBuildDate><atom:link href="https://hnrss.org/newest" rel="self" type="application/rss+xml"></atom:link><item><title><![CDATA[Challenges and Opportunities to Dramatically Reduce the Cost of Uber’s Big Data]]></title><description><![CDATA[
+<p>Article URL: <a href="https://eng.uber.com/challenges-opportunities-to-reduce-cost-ubers-big-data/">https://eng.uber.com/challenges-opportunities-to-reduce-cost-ubers-big-data/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28125228">https://news.ycombinator.com/item?id=28125228</a></p>
 <p>Points: 1</p>
 <p># Comments: 0</p>
-]]></description><pubDate>Mon, 09 Aug 2021 15:08:34 +0000</pubDate><link>https://theafricaninsider.com/who-are-the-hyena-men-of-nigeria/</link><dc:creator>Borrible</dc:creator><comments>https://news.ycombinator.com/item?id=28117877</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28117877</guid></item><item><title><![CDATA[A Review of Modern Sail Theory (1981) [pdf]]]></title><description><![CDATA[
-<p>Article URL: <a href="http://ljjensen.net/Maritimt/A%20Review%20of%20Modern%20Sail%20Theory.pdf">http://ljjensen.net/Maritimt/A%20Review%20of%20Modern%20Sail%20Theory.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28117873">https://news.ycombinator.com/item?id=28117873</a></p>
+]]></description><pubDate>Tue, 10 Aug 2021 04:48:09 +0000</pubDate><link>https://eng.uber.com/challenges-opportunities-to-reduce-cost-ubers-big-data/</link><dc:creator>atg_abhishek</dc:creator><comments>https://news.ycombinator.com/item?id=28125228</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28125228</guid></item><item><title><![CDATA[Impact of Aliasing on Generalization in Deep Convolutional Networks]]></title><description><![CDATA[
+<p>Article URL: <a href="https://arxiv.org/abs/2108.03489">https://arxiv.org/abs/2108.03489</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28125221">https://news.ycombinator.com/item?id=28125221</a></p>
 <p>Points: 1</p>
 <p># Comments: 0</p>
-]]></description><pubDate>Mon, 09 Aug 2021 15:08:27 +0000</pubDate><link>http://ljjensen.net/Maritimt/A%20Review%20of%20Modern%20Sail%20Theory.pdf</link><dc:creator>Tomte</dc:creator><comments>https://news.ycombinator.com/item?id=28117873</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28117873</guid></item><item><title><![CDATA[A Physical Description of Flight; Revisited (2009) [pdf]]]></title><description><![CDATA[
-<p>Article URL: <a href="http://docshare01.docshare.tips/files/3422/34223648.pdf">http://docshare01.docshare.tips/files/3422/34223648.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28117871">https://news.ycombinator.com/item?id=28117871</a></p>
+]]></description><pubDate>Tue, 10 Aug 2021 04:47:01 +0000</pubDate><link>https://arxiv.org/abs/2108.03489</link><dc:creator>lnyan</dc:creator><comments>https://news.ycombinator.com/item?id=28125221</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28125221</guid></item><item><title><![CDATA[Latency SLO]]></title><description><![CDATA[
+<p>Article URL: <a href="https://blog.last9.io/latency-slo/">https://blog.last9.io/latency-slo/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28125215">https://news.ycombinator.com/item?id=28125215</a></p>
 <p>Points: 1</p>
 <p># Comments: 0</p>
-]]></description><pubDate>Mon, 09 Aug 2021 15:08:19 +0000</pubDate><link>http://docshare01.docshare.tips/files/3422/34223648.pdf</link><dc:creator>Tomte</dc:creator><comments>https://news.ycombinator.com/item?id=28117871</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28117871</guid></item><item><title><![CDATA[Writing can advance your career as a developer]]></title><description><![CDATA[
-<p>Article URL: <a href="https://stackoverflow.blog/2021/08/09/how-writing-can-advance-your-career-as-a-developer/">https://stackoverflow.blog/2021/08/09/how-writing-can-advance-your-career-as-a-developer/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28117836">https://news.ycombinator.com/item?id=28117836</a></p>
+]]></description><pubDate>Tue, 10 Aug 2021 04:46:15 +0000</pubDate><link>https://blog.last9.io/latency-slo/</link><dc:creator>nishantmodak</dc:creator><comments>https://news.ycombinator.com/item?id=28125215</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28125215</guid></item><item><title><![CDATA[Scientists reverse a key hallmark of motor neurone disease in the laboratory]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.crick.ac.uk/news/2021-08-06_scientists-reverse-a-key-hallmark-of-motor-neurone-disease-in-the-laboratory">https://www.crick.ac.uk/news/2021-08-06_scientists-reverse-a-key-hallmark-of-motor-neurone-disease-in-the-laboratory</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28125205">https://news.ycombinator.com/item?id=28125205</a></p>
 <p>Points: 1</p>
 <p># Comments: 0</p>
-]]></description><pubDate>Mon, 09 Aug 2021 15:05:18 +0000</pubDate><link>https://stackoverflow.blog/2021/08/09/how-writing-can-advance-your-career-as-a-developer/</link><dc:creator>mooreds</dc:creator><comments>https://news.ycombinator.com/item?id=28117836</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28117836</guid></item><item><title><![CDATA[Previous: A Next Computer Emulator]]></title><description><![CDATA[
-<p>Article URL: <a href="http://previous.unixdude.net/">http://previous.unixdude.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28117832">https://news.ycombinator.com/item?id=28117832</a></p>
+]]></description><pubDate>Tue, 10 Aug 2021 04:43:52 +0000</pubDate><link>https://www.crick.ac.uk/news/2021-08-06_scientists-reverse-a-key-hallmark-of-motor-neurone-disease-in-the-laboratory</link><dc:creator>lnyan</dc:creator><comments>https://news.ycombinator.com/item?id=28125205</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28125205</guid></item><item><title><![CDATA[What China Wants and Why]]></title><description><![CDATA[
+<p>Article URL: <a href="https://unchartedterritories.tomaspueyo.com/p/what-china-wants">https://unchartedterritories.tomaspueyo.com/p/what-china-wants</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28125183">https://news.ycombinator.com/item?id=28125183</a></p>
 <p>Points: 1</p>
 <p># Comments: 0</p>
-]]></description><pubDate>Mon, 09 Aug 2021 15:05:03 +0000</pubDate><link>http://previous.unixdude.net/</link><dc:creator>homarp</dc:creator><comments>https://news.ycombinator.com/item?id=28117832</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28117832</guid></item><item><title><![CDATA[Cold Call]]></title><description><![CDATA[
-<p>Article URL: <a href="https://theupsizers.wordpress.com/2021/08/09/entry-1068-cold-call/">https://theupsizers.wordpress.com/2021/08/09/entry-1068-cold-call/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28117824">https://news.ycombinator.com/item?id=28117824</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>
-]]></description><pubDate>Mon, 09 Aug 2021 15:04:36 +0000</pubDate><link>https://theupsizers.wordpress.com/2021/08/09/entry-1068-cold-call/</link><dc:creator>Alex3917</dc:creator><comments>https://news.ycombinator.com/item?id=28117824</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28117824</guid></item><item><title><![CDATA[Happy Birthday, OpenStreetMap]]></title><description><![CDATA[
-<p>Article URL: <a href="https://www.tomtom.com/blog/maps/tomtom-openstreetmaps-mapmetrics-map-editing/">https://www.tomtom.com/blog/maps/tomtom-openstreetmaps-mapmetrics-map-editing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28117793">https://news.ycombinator.com/item?id=28117793</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-]]></description><pubDate>Mon, 09 Aug 2021 15:02:18 +0000</pubDate><link>https://www.tomtom.com/blog/maps/tomtom-openstreetmaps-mapmetrics-map-editing/</link><dc:creator>kikibobo69</dc:creator><comments>https://news.ycombinator.com/item?id=28117793</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28117793</guid></item><item><title><![CDATA[Richard Hutchins: The homeless artist who became a viral sensation]]></title><description><![CDATA[
-<p>Article URL: <a href="https://edition.cnn.com/style/article/richard-hutchins-homeless-artist/index.html">https://edition.cnn.com/style/article/richard-hutchins-homeless-artist/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28117740">https://news.ycombinator.com/item?id=28117740</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>
-]]></description><pubDate>Mon, 09 Aug 2021 14:57:45 +0000</pubDate><link>https://edition.cnn.com/style/article/richard-hutchins-homeless-artist/index.html</link><dc:creator>graderjs</dc:creator><comments>https://news.ycombinator.com/item?id=28117740</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28117740</guid></item><item><title><![CDATA[Dave Beazley live-codes a WebAssembly Interpreter (2019)]]></title><description><![CDATA[
-<p>Article URL: <a href="https://www.youtube.com/watch?v=r-A78RgMhZU">https://www.youtube.com/watch?v=r-A78RgMhZU</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28117717">https://news.ycombinator.com/item?id=28117717</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>
-]]></description><pubDate>Mon, 09 Aug 2021 14:56:04 +0000</pubDate><link>https://www.youtube.com/watch?v=r-A78RgMhZU</link><dc:creator>yesenadam</dc:creator><comments>https://news.ycombinator.com/item?id=28117717</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28117717</guid></item><item><title><![CDATA[SyntheticDB: A just-in-time SQL-based statistically robust data generator]]></title><description><![CDATA[
-<p>Article URL: <a href="https://github.com/SyntheticAnalytics/SyntheticDB">https://github.com/SyntheticAnalytics/SyntheticDB</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28117695">https://news.ycombinator.com/item?id=28117695</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
-]]></description><pubDate>Mon, 09 Aug 2021 14:54:13 +0000</pubDate><link>https://github.com/SyntheticAnalytics/SyntheticDB</link><dc:creator>SynthAnalytics</dc:creator><comments>https://news.ycombinator.com/item?id=28117695</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28117695</guid></item><item><title><![CDATA[LinkedIn Data Science Interview Prep: Questions and Solutions]]></title><description><![CDATA[
-<p>Article URL: <a href="https://blog.interviewquery.com/blog-the-linkedin-data-scientist-interview/">https://blog.interviewquery.com/blog-the-linkedin-data-scientist-interview/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28117687">https://news.ycombinator.com/item?id=28117687</a></p>
-<p>Points: 1</p>
-<p># Comments: 1</p>
-]]></description><pubDate>Mon, 09 Aug 2021 14:53:49 +0000</pubDate><link>https://blog.interviewquery.com/blog-the-linkedin-data-scientist-interview/</link><dc:creator>mhdavisIQ</dc:creator><comments>https://news.ycombinator.com/item?id=28117687</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28117687</guid></item><item><title><![CDATA[Benefits of standing over sitting while working]]></title><description><![CDATA[
-<p>Article URL: <a href="https://www.youtube.com/watch?v=G5Viuju1pOo">https://www.youtube.com/watch?v=G5Viuju1pOo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28117667">https://news.ycombinator.com/item?id=28117667</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>
-]]></description><pubDate>Mon, 09 Aug 2021 14:52:11 +0000</pubDate><link>https://www.youtube.com/watch?v=G5Viuju1pOo</link><dc:creator>bookofjoe</dc:creator><comments>https://news.ycombinator.com/item?id=28117667</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28117667</guid></item><item><title><![CDATA[The Emperor Has No Clothes – Child Pornography]]></title><description><![CDATA[
-<p>Article URL: <a href="https://pastebin.com/94h3QJiu">https://pastebin.com/94h3QJiu</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28117662">https://news.ycombinator.com/item?id=28117662</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-]]></description><pubDate>Mon, 09 Aug 2021 14:51:52 +0000</pubDate><link>https://pastebin.com/94h3QJiu</link><dc:creator>throw-away-aug</dc:creator><comments>https://news.ycombinator.com/item?id=28117662</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28117662</guid></item><item><title><![CDATA[Snorkel AI Raises $85M Series C at $1B Valuation]]></title><description><![CDATA[
-<p>Article URL: <a href="https://fortune.com/2021/08/09/snorkel-ai-funding-data-labeling-startup/">https://fortune.com/2021/08/09/snorkel-ai-funding-data-labeling-startup/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28117643">https://news.ycombinator.com/item?id=28117643</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-]]></description><pubDate>Mon, 09 Aug 2021 14:50:33 +0000</pubDate><link>https://fortune.com/2021/08/09/snorkel-ai-funding-data-labeling-startup/</link><dc:creator>kolencherry</dc:creator><comments>https://news.ycombinator.com/item?id=28117643</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28117643</guid></item><item><title><![CDATA[The Ripple Effect: How increasing the number of women in the infosec can result]]></title><description><![CDATA[
-<p>Article URL: <a href="https://portswigger.net/daily-swig/the-ripple-effect-how-increasing-the-number-of-women-in-the-infosec-can-result-in-a-happier-workplace">https://portswigger.net/daily-swig/the-ripple-effect-how-increasing-the-number-of-women-in-the-infosec-can-result-in-a-happier-workplace</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28117601">https://news.ycombinator.com/item?id=28117601</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>
-]]></description><pubDate>Mon, 09 Aug 2021 14:48:04 +0000</pubDate><link>https://portswigger.net/daily-swig/the-ripple-effect-how-increasing-the-number-of-women-in-the-infosec-can-result-in-a-happier-workplace</link><dc:creator>feross</dc:creator><comments>https://news.ycombinator.com/item?id=28117601</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28117601</guid></item><item><title><![CDATA[Pulse Connect Secure – RCE via Uncontrolled Archive Extraction – CVE-2021-22937]]></title><description><![CDATA[
-<p>Article URL: <a href="https://research.nccgroup.com/2021/08/05/technical-advisory-pulse-connect-secure-rce-via-uncontrolled-archive-extraction-cve-2021-22937-patch-bypass/">https://research.nccgroup.com/2021/08/05/technical-advisory-pulse-connect-secure-rce-via-uncontrolled-archive-extraction-cve-2021-22937-patch-bypass/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28117598">https://news.ycombinator.com/item?id=28117598</a></p>
-<p>Points: 1</p>
-<p># Comments: 1</p>
-]]></description><pubDate>Mon, 09 Aug 2021 14:47:55 +0000</pubDate><link>https://research.nccgroup.com/2021/08/05/technical-advisory-pulse-connect-secure-rce-via-uncontrolled-archive-extraction-cve-2021-22937-patch-bypass/</link><dc:creator>detaro</dc:creator><comments>https://news.ycombinator.com/item?id=28117598</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28117598</guid></item><item><title><![CDATA[MacBook Pro Touchscreen Incoming?]]></title><description><![CDATA[
-<p>Article URL: <a href="https://www.protocol.com/apple-touchscreen-laptop-patent?">https://www.protocol.com/apple-touchscreen-laptop-patent?</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28117597">https://news.ycombinator.com/item?id=28117597</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>
-]]></description><pubDate>Mon, 09 Aug 2021 14:47:52 +0000</pubDate><link>https://www.protocol.com/apple-touchscreen-laptop-patent?</link><dc:creator>elsewhen</dc:creator><comments>https://news.ycombinator.com/item?id=28117597</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28117597</guid></item><item><title><![CDATA[Scott Manley: The International Space Station's Accidental Spin Visualized]]></title><description><![CDATA[
-<p>Article URL: <a href="https://www.youtube.com/watch?v=dDBt9rZhMb4">https://www.youtube.com/watch?v=dDBt9rZhMb4</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28117591">https://news.ycombinator.com/item?id=28117591</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-]]></description><pubDate>Mon, 09 Aug 2021 14:47:27 +0000</pubDate><link>https://www.youtube.com/watch?v=dDBt9rZhMb4</link><dc:creator>lsllc</dc:creator><comments>https://news.ycombinator.com/item?id=28117591</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28117591</guid></item><item><title><![CDATA[Psytrance Guide]]></title><description><![CDATA[
-<p>Article URL: <a href="http://psytranceguide.com/">http://psytranceguide.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28117534">https://news.ycombinator.com/item?id=28117534</a></p>
+]]></description><pubDate>Tue, 10 Aug 2021 04:38:54 +0000</pubDate><link>https://unchartedterritories.tomaspueyo.com/p/what-china-wants</link><dc:creator>colinprince</dc:creator><comments>https://news.ycombinator.com/item?id=28125183</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28125183</guid></item><item><title><![CDATA[In order to install Windows 11, you have to edit your BIOS Settings for TPM 2.0]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.pcmag.com/news/to-upgrade-to-windows-11-prepare-to-dig-into-your-pcs-bios">https://www.pcmag.com/news/to-upgrade-to-windows-11-prepare-to-dig-into-your-pcs-bios</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28125149">https://news.ycombinator.com/item?id=28125149</a></p>
 <p>Points: 2</p>
 <p># Comments: 0</p>
-]]></description><pubDate>Mon, 09 Aug 2021 14:44:00 +0000</pubDate><link>http://psytranceguide.com/</link><dc:creator>turrini</dc:creator><comments>https://news.ycombinator.com/item?id=28117534</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28117534</guid></item><item><title><![CDATA[The Reincarnated]]></title><description><![CDATA[
-<p>Article URL: <a href="https://medium.com/truly-adventurous/the-reincarnated-dd448ae89903">https://medium.com/truly-adventurous/the-reincarnated-dd448ae89903</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28117520">https://news.ycombinator.com/item?id=28117520</a></p>
+]]></description><pubDate>Tue, 10 Aug 2021 04:32:32 +0000</pubDate><link>https://www.pcmag.com/news/to-upgrade-to-windows-11-prepare-to-dig-into-your-pcs-bios</link><dc:creator>cable2600</dc:creator><comments>https://news.ycombinator.com/item?id=28125149</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28125149</guid></item><item><title><![CDATA[SofGAN: A Portrait Image Generator with Dynamic Styling]]></title><description><![CDATA[
+<p>Article URL: <a href="https://apchenstu.github.io/sofgan/">https://apchenstu.github.io/sofgan/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28125145">https://news.ycombinator.com/item?id=28125145</a></p>
+<p>Points: 2</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Tue, 10 Aug 2021 04:31:52 +0000</pubDate><link>https://apchenstu.github.io/sofgan/</link><dc:creator>lnyan</dc:creator><comments>https://news.ycombinator.com/item?id=28125145</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28125145</guid></item><item><title><![CDATA[How to pick a good Indian Ice Cream]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.upgrademyfood.com/good-indian-ice-cream/">https://www.upgrademyfood.com/good-indian-ice-cream/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28125117">https://news.ycombinator.com/item?id=28125117</a></p>
 <p>Points: 1</p>
 <p># Comments: 0</p>
-]]></description><pubDate>Mon, 09 Aug 2021 14:43:15 +0000</pubDate><link>https://medium.com/truly-adventurous/the-reincarnated-dd448ae89903</link><dc:creator>1MachineElf</dc:creator><comments>https://news.ycombinator.com/item?id=28117520</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28117520</guid></item></channel></rss>
+]]></description><pubDate>Tue, 10 Aug 2021 04:25:14 +0000</pubDate><link>https://www.upgrademyfood.com/good-indian-ice-cream/</link><dc:creator>upgrademyfood</dc:creator><comments>https://news.ycombinator.com/item?id=28125117</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28125117</guid></item><item><title><![CDATA[My Investing Nightmare]]></title><description><![CDATA[
+<p>Article URL: <a href="https://ofdollarsanddata.com/my-investing-nightmare/">https://ofdollarsanddata.com/my-investing-nightmare/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28125101">https://news.ycombinator.com/item?id=28125101</a></p>
+<p>Points: 2</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Tue, 10 Aug 2021 04:20:48 +0000</pubDate><link>https://ofdollarsanddata.com/my-investing-nightmare/</link><dc:creator>akg_67</dc:creator><comments>https://news.ycombinator.com/item?id=28125101</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28125101</guid></item><item><title><![CDATA[How Open Source Is Pushing the Future of Data Science]]></title><description><![CDATA[
+<p>Article URL: <a href="https://tarscloud.org/feeds/3800819773274530">https://tarscloud.org/feeds/3800819773274530</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28125075">https://news.ycombinator.com/item?id=28125075</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Tue, 10 Aug 2021 04:11:13 +0000</pubDate><link>https://tarscloud.org/feeds/3800819773274530</link><dc:creator>hpeiy</dc:creator><comments>https://news.ycombinator.com/item?id=28125075</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28125075</guid></item><item><title><![CDATA[Turn your Android phone into SMS API gateway]]></title><description><![CDATA[
+<p>Article URL: <a href="https://github.com/traccar/traccar-sms-gateway">https://github.com/traccar/traccar-sms-gateway</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28125074">https://news.ycombinator.com/item?id=28125074</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Tue, 10 Aug 2021 04:11:09 +0000</pubDate><link>https://github.com/traccar/traccar-sms-gateway</link><dc:creator>tananaev</dc:creator><comments>https://news.ycombinator.com/item?id=28125074</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28125074</guid></item><item><title><![CDATA[Despite Pledges to Cut Emissions, China Goes on a Coal Spree]]></title><description><![CDATA[
+<p>Article URL: <a href="https://e360.yale.edu/features/despite-pledges-to-cut-emissions-china-goes-on-a-coal-spree">https://e360.yale.edu/features/despite-pledges-to-cut-emissions-china-goes-on-a-coal-spree</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28125054">https://news.ycombinator.com/item?id=28125054</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Tue, 10 Aug 2021 04:06:25 +0000</pubDate><link>https://e360.yale.edu/features/despite-pledges-to-cut-emissions-china-goes-on-a-coal-spree</link><dc:creator>Overton-Window</dc:creator><comments>https://news.ycombinator.com/item?id=28125054</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28125054</guid></item><item><title><![CDATA[Apple Apologetics]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.observationalhazard.com/2021/08/apple-apologetics.html">https://www.observationalhazard.com/2021/08/apple-apologetics.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28125027">https://news.ycombinator.com/item?id=28125027</a></p>
+<p>Points: 2</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Tue, 10 Aug 2021 04:00:45 +0000</pubDate><link>https://www.observationalhazard.com/2021/08/apple-apologetics.html</link><dc:creator>WoodenChair</dc:creator><comments>https://news.ycombinator.com/item?id=28125027</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28125027</guid></item><item><title><![CDATA[Hackers reportedly threaten to leak data from Gigabyte ransomware attack]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.theverge.com/2021/8/9/22616882/gigabyte-technologies-ransomware-attack-data-leak-112-gb-ransomexx">https://www.theverge.com/2021/8/9/22616882/gigabyte-technologies-ransomware-attack-data-leak-112-gb-ransomexx</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28125015">https://news.ycombinator.com/item?id=28125015</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Tue, 10 Aug 2021 03:57:46 +0000</pubDate><link>https://www.theverge.com/2021/8/9/22616882/gigabyte-technologies-ransomware-attack-data-leak-112-gb-ransomexx</link><dc:creator>williamsharris</dc:creator><comments>https://news.ycombinator.com/item?id=28125015</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28125015</guid></item><item><title><![CDATA[FlyTrap malware hijacks thousands of Facebook accounts]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.bleepingcomputer.com/news/security/flytrap-malware-hijacks-thousands-of-facebook-accounts/">https://www.bleepingcomputer.com/news/security/flytrap-malware-hijacks-thousands-of-facebook-accounts/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28125013">https://news.ycombinator.com/item?id=28125013</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Tue, 10 Aug 2021 03:57:27 +0000</pubDate><link>https://www.bleepingcomputer.com/news/security/flytrap-malware-hijacks-thousands-of-facebook-accounts/</link><dc:creator>scopio918</dc:creator><comments>https://news.ycombinator.com/item?id=28125013</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28125013</guid></item><item><title><![CDATA[Economics of 'Serverless']]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.bbva.com/en/economics-of-serverless/">https://www.bbva.com/en/economics-of-serverless/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28124975">https://news.ycombinator.com/item?id=28124975</a></p>
+<p>Points: 2</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Tue, 10 Aug 2021 03:48:24 +0000</pubDate><link>https://www.bbva.com/en/economics-of-serverless/</link><dc:creator>heldsteel7</dc:creator><comments>https://news.ycombinator.com/item?id=28124975</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28124975</guid></item><item><title><![CDATA[America is flying blind when it comes to the Delta variant]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.theguardian.com/commentisfree/2021/aug/09/america-is-flying-blind-when-it-comes-to-the-delta-variant">https://www.theguardian.com/commentisfree/2021/aug/09/america-is-flying-blind-when-it-comes-to-the-delta-variant</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28124949">https://news.ycombinator.com/item?id=28124949</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Tue, 10 Aug 2021 03:42:18 +0000</pubDate><link>https://www.theguardian.com/commentisfree/2021/aug/09/america-is-flying-blind-when-it-comes-to-the-delta-variant</link><dc:creator>pranshum</dc:creator><comments>https://news.ycombinator.com/item?id=28124949</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28124949</guid></item><item><title><![CDATA[“My scooter was stolen. Unknown to the thief, I hid two AirTags inside it.”]]></title><description><![CDATA[
+<p>Article URL: <a href="https://twitter.com/dguido/status/1424921645483966466">https://twitter.com/dguido/status/1424921645483966466</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28124942">https://news.ycombinator.com/item?id=28124942</a></p>
+<p>Points: 116</p>
+<p># Comments: 27</p>
+]]></description><pubDate>Tue, 10 Aug 2021 03:40:43 +0000</pubDate><link>https://twitter.com/dguido/status/1424921645483966466</link><dc:creator>minimaxir</dc:creator><comments>https://news.ycombinator.com/item?id=28124942</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28124942</guid></item><item><title><![CDATA[Robo-Vans Could Start Delivering Profits and Not Just Pizza]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.bloomberg.com/news/newsletters/2021-08-09/robo-vans-could-start-delivering-profits-and-not-just-pizza">https://www.bloomberg.com/news/newsletters/2021-08-09/robo-vans-could-start-delivering-profits-and-not-just-pizza</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28124940">https://news.ycombinator.com/item?id=28124940</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Tue, 10 Aug 2021 03:40:11 +0000</pubDate><link>https://www.bloomberg.com/news/newsletters/2021-08-09/robo-vans-could-start-delivering-profits-and-not-just-pizza</link><dc:creator>vwoolf</dc:creator><comments>https://news.ycombinator.com/item?id=28124940</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28124940</guid></item><item><title><![CDATA[Trustable news organizations gaming Google search algorithms]]></title><description><![CDATA[
+<p>Article URL: <a href="https://twitter.com/hereandnowim/status/1422903679036928005">https://twitter.com/hereandnowim/status/1422903679036928005</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=28124921">https://news.ycombinator.com/item?id=28124921</a></p>
+<p>Points: 2</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Tue, 10 Aug 2021 03:36:40 +0000</pubDate><link>https://twitter.com/hereandnowim/status/1422903679036928005</link><dc:creator>vincent_s</dc:creator><comments>https://news.ycombinator.com/item?id=28124921</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=28124921</guid></item></channel></rss>
