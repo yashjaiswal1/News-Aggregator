@@ -19,7 +19,11 @@ class BlogList(Resource):
             "/Users/yashjaiswal/Desktop/intern_project/News-Aggregator/RSSFeed.db")
         cur = connection.cursor()
 
-        query = "SELECT * FROM Blogs ORDER BY(PubDate) DESC;"
+        page = int(request.args.get("page")) if request.args.get("page") else 1
+        limit = int(request.args.get("limit")
+                    ) if request.args.get("limit") else 50
+
+        query = f"SELECT * FROM Blogs ORDER BY(PubDate) DESC LIMIT {(page-1) * limit},{limit};"
         cur.execute(query)
 
         rows = cur.fetchall()
