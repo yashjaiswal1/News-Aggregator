@@ -4,6 +4,8 @@ import sqlite3
 
 
 def fetchRSS():
+    ''' Fetches the RSS XML file from url and overwrites fetchedBlogs.xml with the fetched data'''
+
     url = "https://hnrss.org/newest"
     response = requests.get(url)
     with open("fetchedBlogs.xml", "wb") as file:
@@ -11,6 +13,8 @@ def fetchRSS():
 
 
 def parseXML(filename):
+    ''' Parses the fetched XML as an XML tree and returns a dictionary of fetched items '''
+
     tree = ET.parse(filename)
     root = tree.getroot()
     months = {"Jan": "01", "Feb": "02", "Mar": "03", "Apr": "04", "May": "05", "Jun": "06",
@@ -49,6 +53,9 @@ def parseXML(filename):
 
 
 def initDB():
+    ''' Creates a new table "Blogs" and indexes "Author" column 
+        NOTE: This method is used only once to initialize SQLite3 DB'''
+
     connection = sqlite3.connect("RSSFeed.db")
     cur = connection.cursor()
 
@@ -66,6 +73,7 @@ def initDB():
 
 
 def saveToDB(blogitems):
+
     connection = sqlite3.connect(
         "/Users/yashjaiswal/Desktop/intern_project/News-Aggregator/RSSFeed.db")
     cur = connection.cursor()

@@ -9,11 +9,15 @@ api = Api(app)
 
 
 class HelloWorld(Resource):
+    ''' Test route '''
+
     def get(self):
         return {"testJSON": "Hello World!"}
 
 
 class BlogList(Resource):
+    ''' Handles HTTP GET request, fetches query params (if any) and returns response '''
+
     def get(self):
         connection = sqlite3.connect(
             "/Users/yashjaiswal/Desktop/intern_project/News-Aggregator/RSSFeed.db")
@@ -46,6 +50,7 @@ class BlogList(Resource):
         return rows
 
 
+# registering routes
 api.add_resource(HelloWorld, "/")
 api.add_resource(BlogList, "/api")
 
