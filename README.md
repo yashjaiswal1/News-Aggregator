@@ -46,10 +46,10 @@ Follow the given steps to run an instance of this API on your own local machine.
   $ source env_name/bin/activate
   ```
 
-  Your virtualenv is now active and you should see something like this.
+  Your virtualenv is now active and you should notice the env name appearing before the `$`.
 
   ```bash
-  (env_name)$ source env_name/bin/activate
+  (env_name) $
   ```
 
 ### Install dependencies
