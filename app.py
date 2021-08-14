@@ -35,6 +35,7 @@ class BlogList(Resource):
         end_datetime = request.args.get("end") if request.args.get(
             "end") else "2022-01-01 00:00:00"
 
+        # query param validations
         if page != None and page <= 0:
             return {
                 "status": "fail",
@@ -88,6 +89,7 @@ class BlogList(Resource):
                 "status": "success",
                 "data": None
             }
+
         return {
             "status": "success",
             "data": {
@@ -96,9 +98,52 @@ class BlogList(Resource):
         }
 
 
-# registering routes
+class Blog(Resource):
+
+    def get(self, CommentsURL):
+        if CommentsURL == None:
+            return {
+                "status": "fail",
+                "data": {
+                    "title": "CommentURL of the blog is required"
+                }
+            }
+
+        connection = sqlite3.connect(
+            "/Users/yashjaiswal/Desktop/intern_project/News-Aggregator/RSSFeed.db")
+        cur = connection.cursor()
+
+        # format url to fetch ?id= param from input url
+        url = CommentsURL + "?id=" + request.args.get("id")
+        query = f"SELECT * FROM Blogs WHERE CommentsURL='{url}';"
+        print(query)
+        cur.execute(query)
+        rows = cur.fetchall()
+        connection.commit()
+        connection.close()
+
+        # converts tuple into dict with title for each field
+        for i in range(len(rows)):
+            rows[i] = list(rows[i])
+            rows[i][0] = ["Title", rows[i][0]]
+            rows[i][1] = ["PubDate", rows[i][1]]
+            rows[i][2] = ["BlogURL", rows[i][2]]
+            rows[i][3] = ["Author", rows[i][3]]
+            rows[i][4] = ["CommentsURL", rows[i][4]]
+            rows[i] = dict(rows[i])
+
+        return {
+            "status": "success",
+            "data": {
+                "blog": rows
+            }
+        }
+
+
+    # registering routes
 api.add_resource(HelloWorld, "/")
 api.add_resource(BlogList, "/api")
+api.add_resource(Blog, "/api/<path:CommentsURL>")
 
 if __name__ == "__main__":
     app.run(debug=True)
