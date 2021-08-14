@@ -29,4 +29,18 @@ def formatDateTime():
     connection.close()
 
 
-formatDateTime()
+def tupleListToDict(rows):
+    ''' converts a list of tuples into a list of dictionaries with a title for each field '''
+
+    for i in range(len(rows)):
+        rows[i] = list(rows[i])
+        rows[i][0] = ["Title", rows[i][0]]
+        rows[i][1] = ["PubDate", rows[i][1]]
+        rows[i][2] = ["BlogURL", rows[i][2]]
+        rows[i][3] = ["Author", rows[i][3]]
+        rows[i][4] = ["CommentsURL", rows[i][4]]
+        rows[i] = dict(rows[i])
+
+# This function was called only once to convert the DateTime formats in the DB.
+# Current input method takes the input in the correct DateTime format so this function need not be called.
+# formatDateTime()

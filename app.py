@@ -2,9 +2,8 @@ from os import error
 from sqlite3.dbapi2 import OperationalError
 from flask import Flask, request
 from flask_restful import Resource, Api
-from collections import defaultdict
+from dataFormatingToolbox import tupleListToDict
 import sqlite3
-import json
 
 app = Flask(__name__)
 api = Api(app)
@@ -74,15 +73,7 @@ class BlogList(Resource):
         connection.commit()
         connection.close()
 
-        # converts tuple into dict with title for each field
-        for i in range(len(rows)):
-            rows[i] = list(rows[i])
-            rows[i][0] = ["Title", rows[i][0]]
-            rows[i][1] = ["PubDate", rows[i][1]]
-            rows[i][2] = ["BlogURL", rows[i][2]]
-            rows[i][3] = ["Author", rows[i][3]]
-            rows[i][4] = ["CommentsURL", rows[i][4]]
-            rows[i] = dict(rows[i])
+        tupleListToDict(rows)
 
         if rows == []:
             return {
@@ -99,6 +90,7 @@ class BlogList(Resource):
 
 
 class Blog(Resource):
+    ''' Handles HTTP GET request and returns JSON response consisting of details of the blog based on provided CommentsURL '''
 
     def get(self, CommentsURL):
         if CommentsURL == None:
@@ -122,15 +114,15 @@ class Blog(Resource):
         connection.commit()
         connection.close()
 
-        # converts tuple into dict with title for each field
-        for i in range(len(rows)):
-            rows[i] = list(rows[i])
-            rows[i][0] = ["Title", rows[i][0]]
-            rows[i][1] = ["PubDate", rows[i][1]]
-            rows[i][2] = ["BlogURL", rows[i][2]]
-            rows[i][3] = ["Author", rows[i][3]]
-            rows[i][4] = ["CommentsURL", rows[i][4]]
-            rows[i] = dict(rows[i])
+        tupleListToDict(rows)
+
+        if rows == []:
+            return {
+                "status": "fail",
+                "data": {
+                    "title": "CommentsURL does not exist in the database"
+                }
+            }
 
         return {
             "status": "success",
@@ -140,7 +132,7 @@ class Blog(Resource):
         }
 
 
-    # registering routes
+# registering routes
 api.add_resource(HelloWorld, "/")
 api.add_resource(BlogList, "/api")
 api.add_resource(Blog, "/api/<path:CommentsURL>")
