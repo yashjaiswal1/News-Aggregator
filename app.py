@@ -1,3 +1,5 @@
+from os import error
+from sqlite3.dbapi2 import OperationalError
 from flask import Flask, request
 from flask_restful import Resource, Api
 from collections import defaultdict
@@ -24,15 +26,38 @@ class BlogList(Resource):
         cur = connection.cursor()
 
         # fetching string query params
-        page = int(request.args.get("page")) if (request.args.get(
-            "page") != None and int(request.args.get("page")) >= 1) else 1
+        page = int(request.args.get("page")) if request.args.get("page") else 1
         limit = int(request.args.get("limit")
-                    ) if (request.args.get("limit") != None and int(request.args.get("limit")) >= 0) else 50
+                    ) if request.args.get("limit") else 50
         author = request.args.get("author")
         start_datetime = request.args.get("start") if request.args.get(
             "start") else "2021-01-01 00:00:00"
         end_datetime = request.args.get("end") if request.args.get(
             "end") else "2022-01-01 00:00:00"
+
+        if page != None and page <= 0:
+            return {
+                "status": "fail",
+                "data": {
+                    "title": "page parameter only accepts integers greater than zero"
+                }
+            }
+
+        if limit != None and limit < 0:
+            return {
+                "status": "fail",
+                "data": {
+                    "title": "limit parameter only accepts non-negative integers"
+                }
+            }
+
+        if start_datetime > end_datetime:
+            return {
+                "status": "fail",
+                "data": {
+                    "title": "start DateTime cannot be greater than the end DateTime"
+                }
+            }
 
         query_start = f"SELECT * FROM Blogs WHERE PubDate BETWEEN '{start_datetime}' AND '{end_datetime}' "
         query_mid = f'AND Author="{author}" '
@@ -47,7 +72,28 @@ class BlogList(Resource):
         rows = cur.fetchall()
         connection.commit()
         connection.close()
-        return rows
+
+        # converts tuple into dict with title for each field
+        for i in range(len(rows)):
+            rows[i] = list(rows[i])
+            rows[i][0] = ["Title", rows[i][0]]
+            rows[i][1] = ["PubDate", rows[i][1]]
+            rows[i][2] = ["BlogURL", rows[i][2]]
+            rows[i][3] = ["Author", rows[i][3]]
+            rows[i][4] = ["CommentsURL", rows[i][4]]
+            rows[i] = dict(rows[i])
+
+        if rows == []:
+            return {
+                "status": "success",
+                "data": None
+            }
+        return {
+            "status": "success",
+            "data": {
+                "blogs": rows
+            }
+        }
 
 
 # registering routes
